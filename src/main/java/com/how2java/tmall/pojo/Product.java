@@ -38,6 +38,7 @@ public class Product {
 	private float promotePrice;
 	private int stock;
 	private Date createDate;
+
 	@Transient
 	private ProductImage firstProductImage;
 	@Transient
@@ -160,4 +161,5 @@ public class Product {
 				+ ", createDate=" + createDate + ", firstProductImage=" + firstProductImage + ", reviewCount="
 				+ reviewCount + ", saleCount=" + saleCount + "]";
 	}
+
 }
