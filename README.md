@@ -1,2 +1,4 @@
 # tmall_springboot
-a project that mimics *tmall.com* with springboot
+A project that mimics *tmall.com* with springboot.
+
+You can watch the demo on my website [wangshunyao.tk](http://www.wangshunyao.tk/tmall_springboot).
